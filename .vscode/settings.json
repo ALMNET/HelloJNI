@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hellojni.h": "c",
+        "stdio.h": "c"
+    }
+}
